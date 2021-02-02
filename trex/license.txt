@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vibrant T-Rex
+* source:	https://sketchfab.com/3d-models/vibrant-t-rex-2e1558145de44105a9967ac444ced119
+* author:	guymanguy1112112 (https://sketchfab.com/guymanguy1112112)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vibrant T-Rex" (https://sketchfab.com/3d-models/vibrant-t-rex-2e1558145de44105a9967ac444ced119) by guymanguy1112112 (https://sketchfab.com/guymanguy1112112) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

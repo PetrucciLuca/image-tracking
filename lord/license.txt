@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lord Malak
+* source:	https://sketchfab.com/3d-models/lord-malak-ba62f299329d4d89852d82261c9f0ea8
+* author:	JackGG (https://sketchfab.com/JackGG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lord Malak" (https://sketchfab.com/3d-models/lord-malak-ba62f299329d4d89852d82261c9f0ea8) by JackGG (https://sketchfab.com/JackGG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
